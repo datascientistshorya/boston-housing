@@ -152,4 +152,4 @@ Data visualization simplifies complex housing trends
 Shorya Bisht
 Data Science & Analytics Enthusiast
 Focused on turning data into actionable insights.
-www.linkedin.com/in/shorya-bisht
+https://www.linkedin.com/in/shorya-bisht-a20144349/
